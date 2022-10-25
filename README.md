@@ -1,3 +1,5 @@
-# Instagram Clone with Tailwind
+# Instagram Clone
 
-    ## Instagram Login
+
+## Instagram Login
+
